@@ -25,9 +25,11 @@ dependencies:
   - chardet=3.0.4=py36_1003
   - click=7.1.2=py_0
   - cryptography=3.0=py36h1ba5d50_0
+  - cycler=0.10.0=py_2
   - decorator=4.4.2=py_0
   - defusedxml=0.6.0=py_0
   - entrypoints=0.3=py36h9f0ad1d_1001
+  - freetype=2.10.2=he06d7ca_0
   - gast=0.2.2=py36_0
   - gcc_impl_linux-64=7.3.0=habb00fd_1
   - gcc_linux-64=7.3.0=h553295d_15
@@ -47,24 +49,33 @@ dependencies:
   - ipython=5.8.0=py36_1
   - ipython_genutils=0.2.0=py_1
   - jinja2=2.11.2=pyh9f0ad1d_0
+  - jpeg=9d=h516909a_0
   - jsonschema=3.2.0=py36h9f0ad1d_1
   - jupyter_client=6.1.7=py_0
   - jupyter_core=4.6.3=py36h9f0ad1d_1
   - keras=2.3.1=py36_0
   - keras-applications=1.0.8=py_1
   - keras-preprocessing=1.1.0=py_1
+  - kiwisolver=1.2.0=py36hdb11119_0
+  - lcms2=2.11=hbd6801e_0
   - ld_impl_linux-64=2.33.1=h53a641e_7
   - libedit=3.1.20191231=h14c3975_1
   - libffi=3.3=he6710b0_2
   - libgcc-ng=9.1.0=hdf63c60_0
   - libgfortran-ng=7.3.0=hdf63c60_0
   - libgpuarray=0.7.6=h14c3975_0
+  - libpng=1.6.37=hed695b0_2
   - libprotobuf=3.12.4=hd408876_0
   - libsodium=1.0.18=h516909a_0
   - libstdcxx-ng=9.1.0=hdf63c60_0
+  - libtiff=4.1.0=hc7e4089_6
+  - libwebp-base=1.1.0=h516909a_3
+  - lz4-c=1.9.2=he1b5a44_3
   - mako=1.1.3=py_0
   - markdown=3.2.2=py36_0
   - markupsafe=1.1.1=py36h7b6447c_0
+  - matplotlib=3.3.1=1
+  - matplotlib-base=3.3.1=py36h5ffbc53_1
   - mistune=0.8.4=py36h8c4c3a4_1001
   - mkl=2020.2=256
   - mkl-service=2.3.0=py36he904b0f_0
@@ -77,6 +88,7 @@ dependencies:
   - numpy=1.19.1=py36hbc911f0_0
   - numpy-base=1.19.1=py36hfa32c7d_0
   - oauthlib=3.1.0=py_0
+  - olefile=0.46=py_0
   - openssl=1.1.1g=h516909a_1
   - opt_einsum=3.1.0=py_0
   - packaging=20.4=pyh9f0ad1d_0
@@ -84,6 +96,7 @@ dependencies:
   - pandocfilters=1.4.2=py_1
   - pexpect=4.8.0=py36h9f0ad1d_1
   - pickleshare=0.7.5=py36h9f0ad1d_1001
+  - pillow=7.2.0=py36h8328e55_1
   - pip=20.2.2=py36_0
   - prometheus_client=0.8.0=pyh9f0ad1d_0
   - prompt_toolkit=1.0.15=py_1
@@ -137,5 +150,6 @@ dependencies:
   - zeromq=4.3.2=he1b5a44_3
   - zipp=3.1.0=py_0
   - zlib=1.2.11=h7b6447c_3
+  - zstd=1.4.5=h6597ccf_2
 prefix: /home/andrea/miniconda3/envs/workshop
 
