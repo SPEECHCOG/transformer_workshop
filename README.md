@@ -15,6 +15,17 @@ on their website: [installing conda](https://docs.anaconda.com/anaconda/install/
 	conda env create -f workshop.yml
 ```
 
+If you are using other OS than Linux please follow this instructions:
+
+```
+	conda creat --name workshop python=3
+	conda activate workshop
+	conda install -c conda-forge keras
+	conda install -c conda-forge tensorflow=2.0
+	conda install -c conda-forge jupyter
+	conda install -c conda-forge matplotlib
+```
+
 4. Activate environment
 
 ```
