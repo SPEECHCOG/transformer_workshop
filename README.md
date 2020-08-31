@@ -21,7 +21,7 @@ If you are using other OS than Linux please follow this instructions:
 	conda creat --name workshop python=3
 	conda activate workshop
 	conda install -c conda-forge keras
-	conda install -c conda-forge tensorflow=2
+	conda install -c conda-forge tensorflow=2.0
 	conda install -c conda-forge jupyter
 	conda install -c conda-forge matplotlib
 ```
