@@ -26,6 +26,13 @@ If you are using other OS than Linux please follow these instructions:
 	conda install -c conda-forge matplotlib
 ```
 
+In some OSX it might be needed to add the following code at the beginning of the notebook:
+
+```python
+	import os
+	os.environ[‘KMP_DUPLICATE_LIB_OK’]=‘True’
+```
+
 4. Activate environment
 
 ```
