@@ -64,3 +64,8 @@ keras attention layer. We implement a sentiment classifier using a custom layer 
 ### Session 3
 -- To be added!
 
+
+## Recomended links:
+* [The illustrated transformer](http://jalammar.github.io/illustrated-transformer/)
+* [Tensorflow transformer tutorial](https://www.tensorflow.org/tutorials/text/transformer)
+
