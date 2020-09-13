@@ -46,4 +46,21 @@ In some OSX it might be needed to add the following code at the beginning of the
 ```
 
 
+## Sessions
+
+### Session 1
+
+* We talk about the history of attention mechanisms in neural networks, and autoencoders (simple and VAE) using MNIST dataset.
+	* Slides: `slides/Presentation_workshop_4.pdf`
+	* Notebooks: `autoencoder.ipynb`, `autoencoder_answer.ipynb`, and `vae.ipynb`
+
+### Session 2
+* We talk about how the attention mechanims works, what are the query, key and value vectors?. We add attention to the VAE example using
+keras attention layer. We implement a sentiment classifier using a custom layer for local addictive attention. 
+	* Slides `slides/Presentation_workshop_session2.pdf`
+	* Notebooks: `vae_cnn.ipynb`, `vae_cnn_attention.ipynb`, `vae_cnn_attention_answer.ipynb`, `2D_ae_simple_vs_attention.ipynb`, and
+	`sentiment_classifier.ipynb`
+
+### Session 3
+-- To be added!
 
